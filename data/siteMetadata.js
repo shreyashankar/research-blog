@@ -1,7 +1,7 @@
 const siteMetadata = {
   title: 'MLOps Research Blog',
   author: 'UC Berkeley MLOps and Friends',
-  headerTitle: 'MLOps Research',
+  headerTitle: 'MLOps and Friends',
   description: 'A blog on research in MLOps, ML Engineering, and data management for ML.',
   language: 'en-us',
   theme: 'system', // system, dark or light
